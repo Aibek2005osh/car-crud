@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public enum CarType {
+    SEDAN,
+    HATCHBACK,
+    MERCEDES,
+    BMW;
 
-public class CarType {
+
 }
